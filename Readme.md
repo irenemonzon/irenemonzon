@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me:
-Frontend Developer with 5+ years of successful software delivery experience. Proficient in JavaScript, TypeScript, React and Next.js with a strong focus on performance optimization and component-driven architecture. Notably, I boosted user engagement by 70% by developing intuitive interfaces and integrating real-time video consultations, significantly enhancing patient care for medical centres.
+Frontend Developer with 5+ years of successful software delivery experience. Proficient in JavaScript, TypeScript, React.js, Next.js and Tailwind CSS with a strong focus on performance optimization and component-driven architecture. My proudest achievement is building the inventory management of Latin America’s largest e-commerce platform, which transformed how sellers managed seasonal campaigns (like Black Friday) and maximized sales.
 
 🛠️ Whether it is optimizing web performance or implementing modern UI patterns, I enjoy the challenge of making the web better and more accessible.
 
